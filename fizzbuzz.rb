@@ -12,5 +12,3 @@ def fizzbuzz()
   #else
   #  puts "nil"
 end
-
-fizzbuzz(3)
