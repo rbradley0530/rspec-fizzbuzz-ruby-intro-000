@@ -4,9 +4,9 @@
 def fizzbuzz(value)
   if 'value'/3 = true
     puts "fizz"
-  elsif value/5 = true
+  elsif '#{value}'/5 = true
     puts "buzz"
-  elsif value/(3 && 5) = true
+  elsif '#{value}'/(3 && 5) = true
     puts "fizzbuzz"
   else
     puts "nil"
