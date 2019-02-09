@@ -2,11 +2,11 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(value)
-  if
+  if value/3 = true
     puts "fizz"
-  elseif
+  elseif value/5 = true
     puts "buzz"
-  elseif
+  elseif value/(3 && 5) = true
     puts "fizzbuzz"
   else
     puts "nil"
