@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(value)
-  if value/3 = true
+  if 'value'/3 = true
     puts "fizz"
   elsif value/5 = true
     puts "buzz"
